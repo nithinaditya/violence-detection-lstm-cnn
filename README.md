@@ -1,1 +1,1 @@
-# violence-detection-lstm-cnn
+# Violence Detection using CNN and LSTM
